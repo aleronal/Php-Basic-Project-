@@ -1,0 +1,12 @@
+{
+    "name": "alejandrorodriguez/cms",
+    "authors": [
+        {
+            "name": "aleronal",
+            "email": "aleronal@hotmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^4.1"
+    }
+}

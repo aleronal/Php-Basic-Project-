@@ -1,0 +1,21 @@
+#load-screen {
+background: url(../images/two-person-riding-boat-on-body-of-water-910213.jpg);
+position: fixed;
+z-index: 10000;
+top:0px;
+width: 100%;
+height: 100%;
+;
+}
+
+
+#loading {
+width: 500px;
+height: 500px;
+margin: 10% auto;
+background: url(../images/VAyR.gif);
+background-size: 40%;
+background-repeat: no-repeat;
+background-position: center;
+
+}
